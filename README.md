@@ -1,16 +1,17 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://sechelix.com">
+    <img src="./sechelix-profile-banner.png" alt="SecHelix" width="100%" />
+  </a>
+</p>
 
-<!--
-**omarmohelal/omarmohelal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Building SecHelix</h2>
 
-Here are some ideas to get you started:
+<p align="center">
+Evidence-first AppSec Agent Skill for Claude Code, Codex, Copilot and other Agent Skills clients.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://sechelix.com">Website</a> ·
+  <a href="https://github.com/omarmohelal/SecHelix">GitHub</a> ·
+  <a href="https://sechelix.com/docs">Docs</a>
+</p>
