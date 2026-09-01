@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://sechelix.com">
-    <img src="https://sechelix.com/sechelix-og.png" alt="SecHelix — Security findings are claims. SecHelix proves them." width="100%" />
+    <img src="./sechelix-profile-banner.png" alt="SecHelix — Security findings are claims. SecHelix proves them." width="100%" />
   </a>
 </p>
 
@@ -12,7 +12,7 @@ Evidence-first AppSec Agent Skill for Claude Code, Codex, GitHub Copilot and oth
 
 <p align="center">
   <a href="https://sechelix.com"><b>Website</b></a> ·
-  <a href="https://github.com/omarmohelal/SecHelix"><b>SecHelix</b></a> ·
+  <a href="https://github.com/omarmohelal/SecHelix"><b>GitHub</b></a> ·
   <a href="https://sechelix.com/docs"><b>Docs</b></a> ·
   <a href="https://sechelix.com/case-studies"><b>Case Studies</b></a>
 </p>
